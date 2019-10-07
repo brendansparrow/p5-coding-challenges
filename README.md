@@ -1,2 +1,2 @@
 # p5-coding-challenges
-A collection of scripts for P5 coding challenges via The Coding Train: https://thecodingtrain.com/CodingChallenges/
+A collection of P5.js scripts following along with The Coding Train code challenges: https://thecodingtrain.com/CodingChallenges/
